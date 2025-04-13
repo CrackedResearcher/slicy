@@ -28,11 +28,13 @@ you upload an image → it gets queued → resized into multiple sizes → saved
 2. **queue** – job added to **bullmq**  
 3. **process** – **sharp** resizes it in the background  
 4. **store** – saved to `public/images/<jobId>`  
-5. **respond** – returns urls of resized images  
-<img width="1440" alt="Screenshot 2025-04-13 at 8 20 45 PM" src="https://github.com/user-attachments/assets/fc950e74-4623-45b5-87a4-d5decf1d6233" />
-<img width="1440" alt="Screenshot 2025-04-13 at 8 20 32 PM" src="https://github.com/user-attachments/assets/cb3f5997-578b-47a4-8465-88cbe1e1d58c" />
-<img width="1440" alt="Screenshot 2025-04-13 at 8 20 23 PM" src="https://github.com/user-attachments/assets/6515ed7d-aefb-46a8-a4d2-5687d35f17cb" />
+5. **respond** – returns urls of resized images
+
 <img width="1440" alt="Screenshot 2025-04-13 at 8 20 15 PM" src="https://github.com/user-attachments/assets/99b35ce2-7c3d-4ae6-8be5-ee585c53b6ff" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 23 PM" src="https://github.com/user-attachments/assets/6515ed7d-aefb-46a8-a4d2-5687d35f17cb" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 32 PM" src="https://github.com/user-attachments/assets/cb3f5997-578b-47a4-8465-88cbe1e1d58c" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 45 PM" src="https://github.com/user-attachments/assets/fc950e74-4623-45b5-87a4-d5decf1d6233" />
+
 
 ```
 you probably dont even need to read any further - becuz images tell you everything
