@@ -61,9 +61,18 @@ you probably dont even need to read any further - becuz images tell you everythi
 
 requires macOS (uses `brew` in `entrypoint.sh`, tweak for other OS)
 
+before running, make sure you install deps:
+
+```bash
+cd ui && bun install
+cd ../backend && bun install
+```
+
+then start it up:
+
 ```bash
 ./entrypoint.sh
 ```
 
-spins up redis → backend → frontend
+spins up redis → backend → frontend  
 you’re live. go throw some images in! 😎
