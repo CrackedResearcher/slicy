@@ -31,6 +31,7 @@ you upload an image → it gets queued → resized into multiple sizes → saved
 
 <img width="1440" alt="Screenshot 2025-04-13 at 7 55 12 PM" src="https://github.com/user-attachments/assets/86718937-8ff5-421c-8c02-6a1a091cb9f7" />  
 <img width="1440" alt="Screenshot 2025-04-13 at 7 54 23 PM" src="https://github.com/user-attachments/assets/61d41b84-bf55-4f8d-b232-49bf6240777d" />
+<img width="1440" alt="Screenshot 2025-04-13 at 7 54 33 PM" src="https://github.com/user-attachments/assets/43ddc466-829f-4e75-9c7c-04c186ab0dba" />
 
 ---
 
