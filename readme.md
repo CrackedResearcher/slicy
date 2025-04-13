@@ -2,7 +2,8 @@
 
 a queue-based image resizing tool, built for speed ⚡️
 
-<img width="1440" alt="Screenshot 2025-04-13 at 7 54 33 PM" src="https://github.com/user-attachments/assets/43ddc466-829f-4e75-9c7c-04c186ab0dba" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 19 09 PM" src="https://github.com/user-attachments/assets/46104716-702f-48c5-bf37-88b609fb27cf" />
+
 
 ---
 
@@ -28,10 +29,14 @@ you upload an image → it gets queued → resized into multiple sizes → saved
 3. **process** – **sharp** resizes it in the background  
 4. **store** – saved to `public/images/<jobId>`  
 5. **respond** – returns urls of resized images  
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 45 PM" src="https://github.com/user-attachments/assets/fc950e74-4623-45b5-87a4-d5decf1d6233" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 32 PM" src="https://github.com/user-attachments/assets/cb3f5997-578b-47a4-8465-88cbe1e1d58c" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 23 PM" src="https://github.com/user-attachments/assets/6515ed7d-aefb-46a8-a4d2-5687d35f17cb" />
+<img width="1440" alt="Screenshot 2025-04-13 at 8 20 15 PM" src="https://github.com/user-attachments/assets/99b35ce2-7c3d-4ae6-8be5-ee585c53b6ff" />
 
-<img width="1440" alt="Screenshot 2025-04-13 at 7 55 12 PM" src="https://github.com/user-attachments/assets/86718937-8ff5-421c-8c02-6a1a091cb9f7" />  
-<img width="1440" alt="Screenshot 2025-04-13 at 7 54 23 PM" src="https://github.com/user-attachments/assets/61d41b84-bf55-4f8d-b232-49bf6240777d" />
-<img width="1440" alt="Screenshot 2025-04-13 at 7 54 33 PM" src="https://github.com/user-attachments/assets/43ddc466-829f-4e75-9c7c-04c186ab0dba" />
+```
+you probably dont even need to read any further - becuz images tell you everything
+```
 
 ---
 
