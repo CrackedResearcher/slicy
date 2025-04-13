@@ -66,4 +66,4 @@ requires macOS (uses `brew` in `entrypoint.sh`, tweak for other OS)
 ```
 
 spins up redis → backend → frontend
-you’re live. go throw some images in. 😎
+you’re live. go throw some images in! 😎
