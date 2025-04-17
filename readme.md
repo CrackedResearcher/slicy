@@ -1,6 +1,6 @@
 # slicy - image resizer  
 
-a queue-based image resizing tool, built for speed ⚡️
+a queue based image resizing tool, built for speed ⚡️
 
 <img width="1440" alt="Screenshot 2025-04-13 at 8 19 09 PM" src="https://github.com/user-attachments/assets/46104716-702f-48c5-bf37-88b609fb27cf" />
 
