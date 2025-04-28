@@ -1,4 +1,4 @@
-# slicy - image resizer  
+# slicy - image resizer   
 
 a queue based image resizing tool, built for speed ⚡️
 
