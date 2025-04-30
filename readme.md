@@ -11,9 +11,9 @@ a queue based image resizing tool, built for speed ⚡️
 - **bun** – runtime (blazingly fast)  
 - **hono** – backend framework  
 - **bullmq** – job queue  
-- **sharp** – image resizing + webp conversion  
+- **sharp** – image resizing + webp conversion
 - **redis** – job storage  
-- **react** – frontend  
+- **react** – frontend    
 
 ---
 
